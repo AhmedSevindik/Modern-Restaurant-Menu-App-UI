@@ -28,11 +28,35 @@ Home Screen
 
 ## 📁 Architecture
 
+## 📁 Project Structure
+
 ```txt
 lib/
-├── theme/
-├── widgets/
-├── screens/
 ├── core/
-└── utils/
+│   └── constants/
+│
+├── models/
+│
+├── screens/
+│   └── home/
+│
+├── services/
+│
+├── theme/
+│   ├── app_theme.dart
+│   ├── colors.dart
+│   ├── spacing.dart
+│   ├── shadows.dart
+│   └── text_styles.dart
+│
+├── utils/
+│   └── responsive.dart
+│
+├── widgets/
+│   ├── buttons/
+│   ├── cards/
+│   ├── common/
+│   └── inputs/
+│
+└── main.dart
 ```
