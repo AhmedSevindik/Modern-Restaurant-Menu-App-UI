@@ -1,16 +1,42 @@
-# menu_verse
+# 🍽️ MenuVerse
 
-A new Flutter project.
+Modern Restaurant Menu & Reservation App built with Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Modern Dark UI
+- Restaurant Menu
+- Reservation System
+- Cart & Checkout
+- Responsive Design
+- Reusable Components
+- Smooth Animations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Material 3
+- Google Fonts
+
+---
+
+## 📁 Project Structure
+
+lib/
+├── theme/
+├── widgets/
+├── screens/
+├── services/
+├── models/
+└── core/
+
+---
+
+## 🚀 Status
+
+Day 1 Foundation Setup Completed
