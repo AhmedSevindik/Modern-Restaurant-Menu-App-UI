@@ -1,20 +1,21 @@
-# 🍽️ MenuVerse
+# 🍽️ Modern Restaurant Menu App UI
 
-Modern Restaurant Menu & Reservation App built with Flutter.
-
----
+Modern Flutter restaurant application with
+clean architecture and reusable UI components.
 
 ## ✨ Features
 
-- Modern Dark UI
-- Restaurant Menu
-- Reservation System
-- Cart & Checkout
-- Responsive Design
-- Reusable Components
-- Smooth Animations
+- Dark Theme
+- Responsive Layout
+- Reusable Widgets
+- Modern UI
+- Food Cards
+- Search System
+- Scalable Architecture
 
----
+## 📸 Screenshots
+
+![Home Screen](screenshots/home.png)
 
 ## 🛠️ Tech Stack
 
@@ -23,20 +24,11 @@ Modern Restaurant Menu & Reservation App built with Flutter.
 - Material 3
 - Google Fonts
 
----
-
-## 📁 Project Structure
+## 📁 Architecture
 
 lib/
 ├── theme/
 ├── widgets/
 ├── screens/
-├── services/
-├── models/
-└── core/
-
----
-
-## 🚀 Status
-
-Day 1 Foundation Setup Completed
+├── core/
+└── utils/
