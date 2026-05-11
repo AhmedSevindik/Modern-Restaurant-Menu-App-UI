@@ -28,9 +28,11 @@ Home Screen
 
 ## 📁 Architecture
 
+```txt
 lib/
 ├── theme/
 ├── widgets/
 ├── screens/
 ├── core/
 └── utils/
+```
