@@ -26,7 +26,6 @@ Home Screen
 - Material 3
 - Google Fonts
 
-## 📁 Architecture
 
 ## 📁 Project Structure
 
