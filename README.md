@@ -15,7 +15,8 @@ clean architecture and reusable UI components.
 
 ## 📸 Screenshots
 
--Home Screen
+Home Screen
+
 ![Home Screen](screenshots/home.png)
 
 ## 🛠️ Tech Stack
